@@ -1,6 +1,6 @@
 # Hi, I'm Veejhay 👋
 
-CS @ **Georgia Tech**, spending my first semester in London at **University College London.** I've been coding for years, and have coded a variety of things including experience in competitive programming, cross-country apps, building LLM systems, etc.
+CS @ **Georgia Tech**, spending my first semester in London at **University College London.** I've been coding for years. I have experience in competitive programming, and have coded a variety of things including cross-country apps, building LLM systems, credit-card fraud, etc.
 
 ## What I'm working on rn
 
@@ -10,4 +10,4 @@ CS @ **Georgia Tech**, spending my first semester in London at **University Coll
 
 - Portfolio: [vjroy.github.io](https://vjroy.github.io)
 
-**In London this semester** and around UCL — if you're working on LLM evaluation, agents, or tool use feel free to hmu
+**In London this semester** and around UCL -- if you're working on LLM evaluation, agents, or tool use feel free to hmu
