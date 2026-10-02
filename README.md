@@ -10,4 +10,3 @@ CS @ **Georgia Tech** I have experience in competitive programming, and have cod
 
 - Portfolio: [vjroy.github.io](https://vjroy.github.io)
 
-**In London this semester** and around UCL -- if you're working on LLM evaluation, agents, or tool use feel free to hmu
